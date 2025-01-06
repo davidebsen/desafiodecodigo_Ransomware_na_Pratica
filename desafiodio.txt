@@ -1,0 +1,2 @@
+Este é um arquivo de exemplo para o desafio de criptografia e descriptografia.
+O conteúdo deste arquivo será criptografado e depois descriptografado usando os scripts fornecidos.
