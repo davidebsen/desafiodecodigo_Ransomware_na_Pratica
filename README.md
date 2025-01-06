@@ -1,0 +1,1 @@
+# desafiodecodigo_Ransomware_na_Pratica
